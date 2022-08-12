@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NFTMarket/static/css/main.8ed4dda1.chunk.css",
+    "main.js": "/NFTMarket/static/js/main.6c81d483.chunk.js",
+    "main.js.map": "/NFTMarket/static/js/main.6c81d483.chunk.js.map",
+    "runtime-main.js": "/NFTMarket/static/js/runtime-main.498f958c.js",
+    "runtime-main.js.map": "/NFTMarket/static/js/runtime-main.498f958c.js.map",
+    "static/css/2.99bf2185.chunk.css": "/NFTMarket/static/css/2.99bf2185.chunk.css",
+    "static/js/2.a4dae367.chunk.js": "/NFTMarket/static/js/2.a4dae367.chunk.js",
+    "static/js/2.a4dae367.chunk.js.map": "/NFTMarket/static/js/2.a4dae367.chunk.js.map",
+    "index.html": "/NFTMarket/index.html",
+    "static/css/2.99bf2185.chunk.css.map": "/NFTMarket/static/css/2.99bf2185.chunk.css.map",
+    "static/css/main.8ed4dda1.chunk.css.map": "/NFTMarket/static/css/main.8ed4dda1.chunk.css.map",
+    "static/js/2.a4dae367.chunk.js.LICENSE.txt": "/NFTMarket/static/js/2.a4dae367.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.498f958c.js",
+    "static/css/2.99bf2185.chunk.css",
+    "static/js/2.a4dae367.chunk.js",
+    "static/css/main.8ed4dda1.chunk.css",
+    "static/js/main.6c81d483.chunk.js"
+  ]
+}
